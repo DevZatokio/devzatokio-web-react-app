@@ -15,6 +15,12 @@ export default function Portfolio() {
     { name: "Python", image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" },
     { name: "Docker", image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" },
     { name: "Kubernetes", image: "https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" },
+    { name: "React Native", image: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" },
+    { name: "Flutter", image: "https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" },
+    { name: "Expo", image: "/logo-type-a.svg" },
+    { name: "MongoDB", image: "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" },
+    { name: "MySQL", image: "https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" },
+    { name: "PostgreSQL", image: "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" },
   ];
 
   return (
